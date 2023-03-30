@@ -1,0 +1,178 @@
+
+.image-div img{
+    width: 5rem;
+    height: 8rem;
+}.collapse{
+    padding-left: 30rem;
+    
+}
+.titlecard{
+    font-family: 'Proxima';
+    font-size: 25px;
+    font-weight: 400;
+    color: #5b5b5b;
+    padding: 0;
+    margin: 15px 0;
+    text-transform: uppercase;
+}
+.h2{
+    font-family: 'Proxima';
+    font-size: 25px;
+    font-weight: 400;
+    color: #f06222;
+    padding: 0;
+    margin: 5px 0;
+    text-transform: uppercase;
+}
+.h3{
+    font-family: 'Proxima';
+    font-size: 20px;
+    font-weight: 400;
+    color: #f06222;
+    padding: 0;
+    margin: 15px 0;
+    margin-top: auto;
+}
+.card-text{
+    font-family: 'Proxima';
+    font-size: 14px;
+    color: #707070;
+    margin: 0 0 18px 0;
+    padding: 0;
+    text-align: justify;
+
+}
+.card a{
+background: #f06222;
+font-family: 'Proxima';
+font-size: 13px;
+font-weight: 400;
+color: #fff;
+padding: 5px 15px;
+text-transform: uppercase;
+border: none;
+margin: 0 auto 10px;
+text-align: center;
+}
+.sec-2{
+    margin-top: 3rem;
+    height: 70vh;
+    padding: 60px 15px;
+    background: url(img/div\ image.jpeg);
+    background-repeat: no-repeat;
+}
+.row{
+    margin-left: -15px;
+    margin-right: -15px;
+    display: flex;
+    justify-content: end;
+
+}
+.sec-2 h1{
+font-family: 'Proxima';
+font-size: 65px;
+font-weight: 300;
+color: #fff;
+padding: 0;
+margin: 0 0 0px;
+}
+.sec-2 h2{
+    font-family: 'Proxima';
+    font-weight: 300;
+    color: #fff;
+    padding: 0;
+    margin: 0 0 18px;
+}
+.sec-2 p{
+    font-family: 'Proxima';
+    font-size: 14px;
+    font-weight: 400;
+    color: #fff;
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+.btn-orange{
+    background: #f06222;
+    font-family: 'Proxima';
+    font-size: 13px;
+    font-weight: 400;
+    color: #fff;
+    padding: 5px 15px;
+    text-transform: uppercase;
+    border: none;
+    margin: 0 auto 10px;
+    text-align: center;
+    width: 145px;
+}
+
+.txt-head{
+    width: 100%;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+.txt-head h5{
+    font-family: 'Proxima';
+    font-size: 37px;
+    font-weight: 300;
+    color: #fff;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    line-height: 1;
+}
+
+.text-center{
+    margin-top: 4rem;
+  align-items: center;
+}
+.nav-item a{
+    padding: 1px 11px;
+    font-size: 12px;
+    font-weight: 400;
+    color: #5b5b5b;
+  
+}
+.d-block{
+    margin-top: 8rem;
+    
+}
+.sec-3{
+    height:80vh;
+    background: #f06222;
+}
+.text-head h5{
+    padding-top: 3rem;
+    text-align: center;
+    color: white;
+    font-size: 37px;
+    font-weight: 300;
+}
+.text-head{
+    background: #f06222; 
+}
+.txtd{
+    padding-left: 20rem;
+    padding-top: 2rem;
+    font-family: 'Proxima';
+    font-size: 36px;
+    color: #787373;
+}
+.sec-5{
+    background: #6d6d6d;
+    color: white;
+    font-size: 13px;
+}
+.ta-l a{
+    text-decoration: none;
+    color: white;
+
+}
+.ta-r a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
